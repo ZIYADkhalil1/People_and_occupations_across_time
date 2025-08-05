@@ -20,11 +20,11 @@ This is a the data analysis end to end project for Zyad Ibrahim khalil
 			-Automated_EDA_report_for_data2.html
 
 2) Where to find each part of the instructions:
-	-part1 Exploratory Data Analysis (EDA): \zyad_ibrahim_khalil_data_analyst_assesment\Explratory Data Analysis\EDA.ipynb
-	-part2 Data Preprocessing: \zyad_ibrahim_khalil_data_analyst_assesment\ETL pipeline\ETL_pipeline.ipynb
-	-part3 Data Matching: \zyad_ibrahim_khalil_data_analyst_assesment\ETL pipeline\ETL_pipeline.ipynb
-	-part4 Analysis and Insights: \zyad_ibrahim_khalil_data_analyst_assesment\ETL pipeline\ETL_pipeline.ipynb
-	-part5 Dashboard Development: \zyad_ibrahim_khalil_data_analyst_assesment\Dashboards\People_and_occupations_report.pbix
+	-part1 Exploratory Data Analysis (EDA): \zyad_ibrahim_khalil_data_analyst\Explratory Data Analysis\EDA.ipynb
+	-part2 Data Preprocessing: \zyad_ibrahim_khalil_data_analyst\ETL pipeline\ETL_pipeline.ipynb
+	-part3 Data Matching: \zyad_ibrahim_khalil_data_analyst\ETL pipeline\ETL_pipeline.ipynb
+	-part4 Analysis and Insights: \zyad_ibrahim_khalil_data_analyst\ETL pipeline\ETL_pipeline.ipynb
+	-part5 Dashboard Development: \zyad_ibrahim_khalil_data_analyst\Dashboards\People_and_occupations_report.pbix
 
 3) Deliverables:
 	-Cleaned Datasets: \zyad_ibrahim_khalil_data_analyst_assesment\dataset\Resulted datasets\mergedData.csv
